@@ -1,5 +1,5 @@
 -  ![logo-sicredi](https://user-images.githubusercontent.com/16515641/135771648-dab7960f-9b3b-449c-b54e-0880d2a41a53.png) I currently work at Sicredi Financial Cooperative
-- 👨‍🏫 I like to help beginners to program 
+- 👨‍🏫 I like to help beginners to start programming 
 - 🎯 Solving complex problems is what I like to do 🧠
 - 🎸 In my spare time I like to study music and catch up on the geek world 🤓
 
