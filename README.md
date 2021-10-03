@@ -25,9 +25,9 @@ If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook
 ## My skills
 <div>
   <a href="https://github.com/lauroPereira">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lauroPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauroPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauroPereira&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauroPereira&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
   
