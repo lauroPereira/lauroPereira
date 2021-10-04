@@ -38,6 +38,8 @@ If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-oracle" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-html5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-css3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
