@@ -44,8 +44,10 @@ If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-azure" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="lauro-skill-html5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="lauro-skill-css3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
