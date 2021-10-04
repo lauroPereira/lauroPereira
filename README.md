@@ -37,5 +37,5 @@ If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-azure" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" alt="lauro-skill-azure" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 </div>
