@@ -32,24 +32,21 @@ If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="lauro-skill-php" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-laravel" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="lauro-skill-python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-oracle" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-html5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="center" alt="lauro-skill-numpy" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-css3" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="lauro-skill-pandas" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-azure" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
