@@ -4,12 +4,12 @@
 - 🎸 In my spare time I like to study music and catch up on the geek world 🤓
 
 ## Connect with me:
-Hi, i'm Lauro Pereira, a systems analyst. My mission is turn people lives better using technology, solving problems that they often don't knew that them haves.
+Hi, i'm Lauro Pereira, a data analyst. My mission is turn people lives better using technology, solving problems that they often don't know that haves.
 I am determined and focused on results and fell restless when challenged. My motivation doesn't depends of external conditions and through my experiences I learned, above all, to be resilient.
 
-If you wnat to interact with me, get in touch with Linkedin, Instagram, Facebook or WhatsApp below.
+If you wamt to interact with me, get in touch with Linkedin, Instagram, Facebook or WhatsApp below.
 
-<a href="https://www.linkedin.com/in/lauro-pereira-4983b672/" target="_blank">
+<a href="https://www.linkedin.com/in/lauro-pereira/" target="_blank">
   <img align="center" alt="lauro-pereira-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/lauropereira88/" target="_blank">
