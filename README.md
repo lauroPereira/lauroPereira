@@ -23,30 +23,28 @@ If you wamt to interact with me, get in touch with Linkedin, Instagram, Facebook
 </a>
 
 ## My skills
-<div>
-  <a href="https://github.com/lauroPereira?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauroPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauroPereira&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
-  
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block; background-color: #0d1117;"><br>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-oracle" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-databricks" width="90" src="https://lh3.googleusercontent.com/Ajd5lEixl1Nw63S0YyaWX1dZw_E1bF91j_HV0CHinnxPOWUP-lqhLTP5H08sV6S3yQW9EnRO2Otvsr3TGNkvM2SV0yY7sDcGjg=s0" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-spark" width="90" src="https://www.gridgain.com/sites/default/files/2018-08/spark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <img align="center" alt="lauro-skill-python" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-numpy" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img align="center" alt="lauro-skill-numpy" width="80" src="https://user-images.githubusercontent.com/50221806/86498215-ba9f2980-bd39-11ea-888e-48affa998c6f.png" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-pandas" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="lauro-skill-pandas" width="80" src="https://pandas.pydata.org/static/img/pandas_white.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-azure" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
