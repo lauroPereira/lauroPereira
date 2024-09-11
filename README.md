@@ -1,13 +1,13 @@
--  ![logo-sicredi](https://user-images.githubusercontent.com/16515641/135771648-dab7960f-9b3b-449c-b54e-0880d2a41a53.png) I currently work at Sicredi Financial Cooperative
+-  🚀 Currently working on a personal project, focused on innovative solutions in technology (more details coming soon!)
 - 👨‍🏫 I like to help beginners to start programming 
 - 🎯 Solving complex problems is what I like to do 🧠
 - 🎸 In my spare time I like to study music and catch up on the geek world 🤓
 
 ## Connect with me:
-Hi, i'm Lauro Pereira, a data analyst. My mission is turn people lives better using technology, solving problems that they often don't know that haves.
-I am determined and focused on results and fell restless when challenged. My motivation doesn't depends of external conditions and through my experiences I learned, above all, to be resilient.
+Hi, I'm Lauro Pereira, a data analyst and problem-solver passionate about using technology to improve people's lives. I'm currently working on innovative personal projects, focused on solving complex challenges.
+I'm determined, results-oriented, and thrive when faced with new challenges. My motivation comes from within, and over the years, I've learned the importance of resilience and adaptability in achieving success.
 
-If you wamt to interact with me, get in touch with Linkedin, Instagram, Facebook or WhatsApp below.
+Feel free to connect with me on LinkedIn, Instagram, Facebook, or WhatsApp through the links below:
 
 <a href="https://www.linkedin.com/in/lauro-pereira/" target="_blank">
   <img align="center" alt="lauro-pereira-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
