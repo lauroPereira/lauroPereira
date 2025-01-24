@@ -26,6 +26,8 @@ Feel free to connect with me on LinkedIn, Instagram, Facebook, or WhatsApp throu
 
 <div style="display: inline_block; background-color: #0d1117;"><br>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="lauro-skill-aws" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-oracle" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
