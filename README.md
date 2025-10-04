@@ -32,7 +32,7 @@ Feel free to connect with me on LinkedIn, Instagram, Facebook, or WhatsApp throu
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-mysql" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="lauro-skill-databricks" width="90" src="https://companieslogo.com/img/orig/databricks_BIG-3be0f84a.png?t=1720244494&download=true" />
+  <img align="center" alt="lauro-skill-databricks" width="90" src="https://tse2.mm.bing.net/th/id/OIP.0lvZHATFvtubhMq3efGU7AHaEI?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="lauro-skill-spark" width="40" src="https://www.gridgain.com/sites/default/files/2018-08/spark.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
